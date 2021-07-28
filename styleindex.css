@@ -1,0 +1,271 @@
+
+	
+	
+	
+	#wrapper
+		{
+			margin:0px auto;
+			height: 6100px;
+			width:1920px;
+			background-color:#b5c8da;
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		}
+#promo {
+	margin:0px auto;
+    background-color: #054177;
+    height: 40px;
+    width: 1920px;
+	font-family:Bahnschrift;
+	font-weight:bold;
+	text-align: center;
+	font-size: 21px;
+	padding-top:20px;
+	color:white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+	nav
+	{
+		background-color: #3283b8;
+		width:1920px;
+		height:200px;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		
+	}
+	#menubar table,td,tr
+	{
+		
+		font-family:"Trebuchet MS";
+		font-size:33px;
+		font-weight:bold;
+		text-align:center;
+		color:white;
+		  text-transform: uppercase;
+		
+	}
+	#menubar td
+	{
+		
+		padding:5px 100px;
+		font-family:"Trebuchet MS";
+		font-size:33px;
+		font-weight:bold;
+		text-align:center;
+	}
+	#banner
+	{
+		height:700px;
+		width:1920px;
+		margin 0px auto;
+		background-image:url("Images/Banner.jpg");
+		background-size: cover;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		
+	}
+	#juststart
+	{
+		
+			color:white;
+			font-family:Calibri;
+			font-size: 33px;
+			font-weight:bold;
+			background-color:rgba(50,131,184,1.00);
+			color: white;
+			height: 50px;
+			margin:500px 700px 200px 900px;
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	}
+	#aboutus
+	{
+		height:500px;
+		width:1920px;
+		margin: 1% auto;
+		background-color: white;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		
+	}
+	
+	#contentabtus
+	{
+		width:65%;
+		color:#326078;
+			font-family:Kalam;
+		padding:2%;
+			font-size: 36px;
+		float:left;
+	}
+	h1
+		{
+			
+			font-size: 50px;
+			text-align: center;
+			
+			font-family:"Cinzel Black";
+			font-weight: bold;
+			margin: 4%;
+		}
+	
+	#strips h1
+	{
+		font-size: 30px;
+	}
+	#abtusimg
+	{
+		width:30%;
+		margin 0px auto;
+		background-image:url("Images/what we do.jpg");
+		background-size: cover;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		float:right;
+		height: inherit;
+	}
+	
+	#pamplets
+	{
+		background-color: white;
+		color:white;
+		height:1020px;
+		width: 1900px;
+		margin:1% auto;
+		padding:10px;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	}
+	#strips
+	{background-color:#b6c9db;
+		float: left;
+		height:1000px;
+		width: 400px;
+		margin:10px 1.8%;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	}
+	#stripcontent
+	{
+		width: 390px;
+		margin:100px 1% 0 1%;
+		background-color:white;
+		color:#326078;
+		font-family:Kalam;
+		text-align:center;
+		line-height: 80px;
+			font-size: 26px;
+	}
+	
+	
+	
+	#titler
+	{
+		width:1900px;
+		height:100px;
+		
+		margin:10px 10px 50px 10px ;
+		font-size: 50px;
+			text-align: center;
+			
+			font-family:"Cinzel Black";
+			font-weight: bold;
+		text-align:center;
+		background-color:white;
+		color:#326078;
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	}
+	#testies
+	{
+		width:1920px;
+		height:100px;
+		font-size: 50px;
+			text-align: center;
+			color:#326078;
+			font-family:"Cinzel Black";
+			font-weight: bold;
+		clear:both;
+		background-color: white;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		margin-bottom:50px;
+	}
+	
+	#sessionicon
+	{
+		height:360px;
+		width:20%;
+		margin:1%;
+		float:left;
+		
+	}
+	
+	#sessionicon:hover,#strips:hover,#testibox:hover
+	{
+		transform: scale(0.9);
+		transform-origin: center;
+		
+	}
+	#sessiondescript h1
+	{
+		color:#326078;
+		text-align: left;
+	}
+	#sessiontime h1
+	{
+		margin:13% 0;
+		color:#326078;
+		text-align: left;
+	}
+	#sessiondescript
+	{
+		padding:0 1%;
+		height:300px;
+		width:49%;
+		margin:3% 1%;
+		background-color: white;
+		color:black;
+		font-family:Kalam;
+		font-size:30px;
+		float:left;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	}
+	
+	#sessiontime
+	{
+		height:300px;
+		width:19%;
+		margin:3% 1%;
+		padding: 0 1%;
+		background-color: white;
+		color:black;
+		font-family:Antonio;
+		font-size:30px;
+		float:left;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	}
+	#testibox
+	{
+		height:300px;
+		width:600px;
+		margin:3% 1%;
+		background-color: white;
+		color:black;
+		text-align:center;
+		font-family:Kalam;
+		font-size:20px;
+		line-height: 50px;
+		float:left;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	}
+	footer
+	{
+		clear:both;
+		height:563px;
+		width:1920px;
+		background-image: url("Images/Footer.png");
+		
+	}
+	
+	
+	
+	#menubar td:hover
+		{
+			
+			color:white;
+			transform: scale(1.1);
+			background-color: #b5c8da;
+				cursor: pointer;
+		}
+	
